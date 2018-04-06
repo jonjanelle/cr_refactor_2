@@ -1,0 +1,11 @@
+{
+  "short_name": "Cybereason Ext R",
+  "name": "Cybereason Extension React",
+  "manifest_version": 2,
+    "version": "1.0",
+  "browser_action": {
+    "default_popup": "index.html",
+    "default_title": "Cybereason Extension",
+    "default_icon": "icon.png"
+  }
+}
